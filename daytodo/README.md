@@ -2,7 +2,7 @@
 Add a new todo
 
 sleeping-not completed![image](https://user-images.githubusercontent.com/104050919/230380034-aa1836d9-cab4-4f25-8b06-f1cdd166f205.png)
-watch live
+watch liven https://aquamarine-taiyaki-d27b72.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
