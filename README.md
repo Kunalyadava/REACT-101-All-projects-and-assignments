@@ -98,7 +98,6 @@ CSS files in which all class names and animation names are scoped locally by def
 import styles from "./styles.css";
  element.innerHTML = 
   <h1 class="${styles.title}">
-     An example heading 
    </h1;
 
    
