@@ -94,10 +94,7 @@ output
 
 CSS modules are:
 CSS files in which all class names and animation names are scoped locally by default.
-
 import styles from "./styles.css";
- element.innerHTML = 
-  <h1 class="${styles.title}">
-   </h1;
+ element.innerHTML=<h1 class="${styles.title}"></h1;
 
    
