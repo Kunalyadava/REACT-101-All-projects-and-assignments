@@ -34,7 +34,7 @@ JSX (JavaScript Syntax Extension or JavaScript XML) is an extension to JavaScrip
  It provides an easier way to create UI components in React.
 Here’s an example of its syntax:
 
-const element = <h1>Hello, World!</h1>;
+const element = <h1>-Hello, World!</h1>;
 
 JSX is still just JavaScript with some extra functionality. 
 With JSX, we can write code that looks very similar to HTML or XML, 
@@ -96,9 +96,9 @@ CSS modules are:
 CSS files in which all class names and animation names are scoped locally by default.
 
 import styles from "./styles.css";
-element.innerHTML = 
-  `<h1 class="${styles.title}">
+ element.innerHTML = 
+  <h1 class="${styles.title}">
      An example heading
-   </h1>`;
+   </h1>;
 
    
