@@ -67,7 +67,7 @@ In this process, we can use conditional statements to
 In React, there are different ways to conditionally render content based
  on the state of a component or other conditions. 
  Two common ways are using the ternary operator and the && operator.
- https://i.ytimg.com/vi/4d0KO_E7ElU/maxresdefault.jpg
+![]( https://i.ytimg.com/vi/4d0KO_E7ElU/maxresdefault.jpg)
 
 6. handling basic onClick events.
 
