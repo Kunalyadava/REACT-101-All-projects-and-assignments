@@ -1,0 +1,56 @@
+;FFMETADATA1
+[CHAPTER]
+TIMEBASE=1/1000
+START=564
+END=2138
+title=Shopping Cart Assignment check if authentication is working properly
+[CHAPTER]
+TIMEBASE=1/1000
+START=3652
+END=3720
+title=Shopping Cart Assignment Check if products page is not accessible without authentication
+[CHAPTER]
+TIMEBASE=1/1000
+START=3625
+END=3789
+title=Shopping Cart Assignment Check if cart page is not accessible without authentication
+[CHAPTER]
+TIMEBASE=1/1000
+START=2786
+END=3954
+title=Shopping Cart Assignment Check if all products are visible on products page
+[CHAPTER]
+TIMEBASE=1/1000
+START=3919
+END=5128
+title=Shopping Cart Assignment Check if the quantity of products is upating correctly on clicking add button-1
+[CHAPTER]
+TIMEBASE=1/1000
+START=5095
+END=6342
+title=Shopping Cart Assignment Check if the quantity of products is upating correctly on clicking add button -2
+[CHAPTER]
+TIMEBASE=1/1000
+START=6191
+END=7594
+title=Shopping Cart Assignment Check if go to bag button is redirecting to cart page
+[CHAPTER]
+TIMEBASE=1/1000
+START=7413
+END=9002
+title=Shopping Cart Assignment Check if cart total is working correctly
+[CHAPTER]
+TIMEBASE=1/1000
+START=9425
+END=10596
+title=Shopping Cart Assignment Check if clicking on any product title redirects to product details page
+[CHAPTER]
+TIMEBASE=1/1000
+START=9657
+END=11772
+title=Shopping Cart Assignment Check if clicking on any product title redirects to product details page -2
+[CHAPTER]
+TIMEBASE=1/1000
+START=13883
+END=13893
+title=Shopping Cart Assignment generate score
