@@ -123,5 +123,5 @@
 //   fetch data from redux to react js
 //   we can use the useSelector
 // Bounce Point
-// the flow of the redux :- first reducer take data from action and place in store file
+// the flow of the redux :- first reducer take data from action and place in store file. // read about custom hooks
 // action and reducer they don't need to import/export the file to each other the connect throw the store
