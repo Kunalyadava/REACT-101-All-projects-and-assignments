@@ -27,16 +27,6 @@ function Todo(){
   console.log(todos);
   return (
     <div>
-
-
-      {/* <div>
-        <input
-          placeholder="Add A new todo"
-          value={text}
-          onChange={handleChange}
-        />
-        <button onClick={handleAdd}>ADD</button>
-      </div> */}
       <AddTodo handleAdd={handleAdd}/>
 
 
